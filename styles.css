@@ -5,7 +5,9 @@ h1 {
 padding-top: 30px;
 padding-bottom: 30px; 
 }
-.header {
-background-color: indigo;
 
+.header {
+    background-image: url(https://i.picsum.photos/id/537/2291/3450.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
 }
